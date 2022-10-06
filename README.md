@@ -1,10 +1,10 @@
 👋 Hi, I’m @Gohta877
-👀 I’m interested in back-end development, QA and Android
-🌱 I’m currently learning JAVA
+👀 I’m interested in web development
+🌱 I’m currently learning JavaScript.
 
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+💞️ I’m looking to collaborate on small front-end projects and projects related to WordPress publishing. 
+📫 You can reach me How to reach me HERE or OVER THERE :) -> https://www.linkedin.com/in/vojinmitrovic/
 
 <!---
 Gohta877/Gohta877 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
